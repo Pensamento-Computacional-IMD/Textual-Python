@@ -8,7 +8,7 @@ Este repositório foi pensado para quem já teve contato com lógica de programa
 [Aula 03](https://github.com/agiribeiro/Python_beginner/blob/master/Aula03.ipynb): Listas e Conjuntos </br> 
 [Aula 04](https://github.com/agiribeiro/Python_beginner/blob/master/Aula04.ipynb): Strings </br> 
 [Aula 05](https://github.com/agiribeiro/Python_beginner/blob/master/Aula05.ipynb): Dicionários </br> 
-Aula 06: Funções (em breve)
+[Aula 06](https://github.com/agiribeiro/Python_beginner/blob/master/Aula06.ipynb): Funções 
 
 
 
