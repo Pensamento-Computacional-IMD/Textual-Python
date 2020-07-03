@@ -14,5 +14,5 @@ Este repositório foi pensado para quem já teve contato com lógica de programa
 
 </br> </br>
 <strong> Referências: </strong>
- Material do Rajath Kumar, Columbia University
+ Material do Rajath Kumar, Columbia University </br>
  Material muito bom e completo: https://pense-python.caravela.club
